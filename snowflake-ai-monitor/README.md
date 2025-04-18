@@ -18,7 +18,7 @@ Monitor your Snowflake storage usage like a pro. This interactive app uses **Str
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/snowflake-ai-monitor.git
+git clone https://github.com/saianuragp/snowflake-health-check.git
 cd snowflake-ai-monitor
 ```
 
@@ -69,7 +69,7 @@ Looking to:
 - Schedule monitoring via Snowflake Tasks?
 - Deploy this at scale for your org?
 
-📩 [Your LinkedIn or Contact Form](https://linkedin.com/in/yourprofile)
+📩 [Your LinkedIn or Contact Form](www.linkedin.com/in/saianuragp22)
 
 ---
 
