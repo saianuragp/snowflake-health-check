@@ -69,7 +69,7 @@ Looking to:
 - Schedule monitoring via Snowflake Tasks?
 - Deploy this at scale for your org?
 
-📩 [Your LinkedIn or Contact Form](https://www.linkedin.com/in/saianuragp22/)
+📩 [My LinkedIn Contact](https://www.linkedin.com/in/saianuragp22/)
 
 ---
 
