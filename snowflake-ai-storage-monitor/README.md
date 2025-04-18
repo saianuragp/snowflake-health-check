@@ -19,7 +19,7 @@ Monitor your Snowflake storage usage like a pro. This interactive app uses **Str
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/saianuragp/snowflake-health-check.git
-cd snowflake-ai-monitor
+cd snowflake-ai-storage-monitor
 ```
 
 ### 2. Install Requirements
