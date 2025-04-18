@@ -74,7 +74,7 @@ Looking to:
 ---
 
 ## 🔗 Try It Live / Fork It
-**👉 [github.com/saianuragp/snowflake-ai-monitor](https://github.com/saianuragp/snowflake-ai-monitor)**
+**👉 [Github.com Repo](https://github.com/saianuragp/snowflake-health-check/tree/main/snowflake-ai-storage-monitor)**
 
 ---
 
