@@ -74,7 +74,7 @@ Looking to:
 ---
 
 ## 🔗 Try It Live / Fork It
-**👉 [github.com/your-username/snowflake-ai-monitor](https://github.com/your-username/snowflake-ai-monitor)**
+**👉 [github.com/saianuragp/snowflake-ai-monitor](https://github.com/saianuragp/snowflake-ai-monitor)**
 
 ---
 
